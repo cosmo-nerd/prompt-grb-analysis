@@ -16,7 +16,7 @@ This project implements a pipeline to detect and classify Gamma-Ray Bursts (GRBs
   - **Blip (charged particle)**
   - **Background (noise)**
 
-- `Report.pdf`  
+- `report.pdf`  
   A detailed report explaining the physics motivation, methodology, detector details, results, and conclusions of the study.
 
 ---
@@ -58,6 +58,12 @@ The Cadmium Zinc Telluride Imager (CZTI) onboard AstroSat (India’s first space
 - Built a foundation for a future machine learning classifier on transient detection.
 
 ---
+
+## Future Work
+- Extend the classifier with a machine learning pipeline (GRB vs blip vs noise).
+- Integrate cross-matching with Fermi GBM/Swift BAT catalogs.
+- Automate SAA masking and real-time event flagging.
+- Tweak the pipeline more to make it highly robust and make the accurscy of flagging events to maximum
 
 ##  Requirements
 
