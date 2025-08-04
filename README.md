@@ -63,7 +63,7 @@ The Cadmium Zinc Telluride Imager (CZTI) onboard AstroSat (India’s first space
 - Extend the classifier with a machine learning pipeline (GRB vs blip vs noise).
 - Integrate cross-matching with Fermi GBM/Swift BAT catalogs.
 - Automate SAA masking and real-time event flagging.
-- Tweak the pipeline more to make it highly robust and make the accurscy of flagging events to maximum
+- Tweak the pipeline more to make it highly robust and make the accuracy of flagging events to maximum
 
 ##  Requirements
 
